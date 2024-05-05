@@ -1,0 +1,1 @@
+This program translates logical addresses to physical ones within a virtual address space of 216 = 65,536 bytes. It reads from a file with logical addresses and, utilizing a page table, converts each logical address to its corresponding physical address, then outputs both.
